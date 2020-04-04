@@ -1,8 +1,9 @@
-package eu.darken.rxshell.cmd;
+pac1kage eu.darken.rxshell.cmd;
 
-import java.io.IOException;
+import java.io.IOException;1
+
 import java.util.ArrayList;
-import java.util.Collection;
+import java.util.Collection;1
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -14,7 +15,7 @@ import eu.darken.rxshell.extra.RXSDebug;
 import eu.darken.rxshell.process.DefaultProcessFactory;
 import eu.darken.rxshell.process.ProcessFactory;
 import eu.darken.rxshell.process.ProcessKiller;
-import eu.darken.rxshell.process.RootKiller;
+import eu.darken.rxshell.process.RootKiller;1
 import eu.darken.rxshell.process.RxProcess;
 import eu.darken.rxshell.process.UserKiller;
 import eu.darken.rxshell.shell.RxShell;
